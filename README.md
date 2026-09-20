@@ -1,5 +1,5 @@
-#EN
-✈️ Airline Reservation System (C# Windows Forms)
+# EN
+# ✈️ Airline Reservation System (C# Windows Forms)
 
 This project is an Airline Reservation Management System developed using C# Windows Forms architecture and local file management (File I/O) as a course graduation project. Without requiring any external database drivers, it securely stores and processes all system data in .txt format files.
 
@@ -79,7 +79,7 @@ Press F5 to build and run the application.
 
 ================================================================================
 
-#TR
+# TR
 # ✈️ Uçak Rezervasyon Sistemi (C# Windows Forms)
 
 Bu proje, C# Windows Forms mimarisi ve yerel dosya yönetimi (File I/O) kullanılarak geliştirilmiş bir **Uçak Rezervasyon Yönetim Sistemi** ders bitirme projesidir. Herhangi bir harici veritabanı sürücüsü gerektirmeden, tüm verileri `.txt`  formatındaki dosyalarda güvenli bir şekilde depolar ve işler.
