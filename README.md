@@ -204,7 +204,7 @@ Kullanıcı kalkış/varış noktası ve havayolu seçerek uçuşları arayabili
   </tr>
 </table>
 
-### 🔑 Kayıt & Giriş İşlemleri (Sign Up & Login)
+### 🔑 Giriş İşlemleri (Login)
 
 Sisteme yeni kullanıcı kaydı gerçekleştirilebilir ve mevcut bilgilerle güvenli giriş yapılabilir.
 
