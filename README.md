@@ -222,7 +222,7 @@ Sisteme yeni kullanıcı kaydı gerçekleştirilebilir ve mevcut bilgilerle güv
   </tr>
 </table>
 
-### 🔔 Dinamik Bildirimler & Hata Yönetimi (Notifications & Error Handling)
+### 🔔 Ödeme Sayfası (Ticket Download)
 
 Dosya okuma/yazma süreçlerinde hatalı girişler, geçersiz kart bilgileri, eksik alanlar veya başarılı bilet alımları sonrasında kullanıcıyı bilgilendiren dinamik mesaj kutuları (MessageBox) ve hata yönetim akışı:
 
