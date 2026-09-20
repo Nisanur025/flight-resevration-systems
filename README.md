@@ -196,7 +196,7 @@ Kullanıcı kalkış/varış noktası ve havayolu seçerek uçuşları arayabili
       <img src="https://github.com/user-attachments/assets/aef65535-2799-42d1-8819-c020b10e2c9a" alt="Uçuş Arama" width="100%"/>
     </td>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/f45d8993-7260-417d-aaa3-c223f6fe0048" alt="Koltuk Seçimi" width="100%"/>
+      <img src="https://github.com/user-attachments/assets/888ba747-124b-4f8b-9e12-e881e9decb93" alt="Koltuk Seçimi" width="100%"/>
     </td>
     <td valign="top">
       <img src="https://github.com/user-attachments/assets/ef08107f-6612-493c-8cdb-8caa5dbfa4dc" alt="Bilet Satın Alma" width="100%"/>
@@ -211,20 +211,13 @@ Sisteme yeni kullanıcı kaydı gerçekleştirilebilir ve mevcut bilgilerle güv
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <b>📝 Kayıt Ol (Register)</b><br>
-      <i>New User Registration</i>
-    </td>
-    <td align="center" width="50%">
       <b>🔓 Giriş Yap (Login)</b><br>
       <i>User Login Authentication</i>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/f672b490-b144-43bd-89a6-b27edf99a7d4" alt="Kayıt Ekranı" width="100%"/>
-    </td>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/69d720f1-7e63-4449-8a5b-d048e9e2c657" alt="Giriş Ekranı" width="100%"/>
+      <img src="https://github.com/user-attachments/assets/55a81417-fcc9-4578-8427-d67c9c208595" alt="Giriş Ekranı" width="100%"/>
     </td>
   </tr>
 </table>
@@ -234,31 +227,6 @@ Sisteme yeni kullanıcı kaydı gerçekleştirilebilir ve mevcut bilgilerle güv
 Dosya okuma/yazma süreçlerinde hatalı girişler, geçersiz kart bilgileri, eksik alanlar veya başarılı bilet alımları sonrasında kullanıcıyı bilgilendiren dinamik mesaj kutuları (MessageBox) ve hata yönetim akışı:
 
 <table border="0">
-  <tr>
-    <td align="center" width="33%">
-      <b>❌ Uçuş Bulunamadı</b><br>
-      <i>Flight Not Found Alert</i>
-    </td>
-    <td align="center" width="33%">
-      <b>⚠️ Hatalı Giriş / Kayıt</b><br>
-      <i>Auth Error Alert</i>
-    </td>
-    <td align="center" width="33%">
-      <b>💳 Geçersiz Kart Bilgisi</b><br>
-      <i>Card Verification Error</i>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/e103b5e0-8dbe-456a-80a8-f2e652b50312" alt="Uçuş Bulunamadı" width="100%"/>
-    </td>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/3cc2d285-7544-4c1d-bea9-c66801c067a6" alt="Kayıt Hatası" width="100%"/>
-    </td>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/f6fc7d2f-48b0-4d7e-99f4-bf865911237a" alt="Kart Hatası" width="100%"/>
-    </td>
-  </tr>
   <tr>
     <td colspan="3" align="center">
       <b>📥 Başarılı Ödeme & Bilet İndirme Talebi (Success & Ticket Download Prompt)</b>
