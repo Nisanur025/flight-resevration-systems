@@ -179,8 +179,8 @@ Kullanıcı kalkış/varış noktası ve havayolu seçerek uçuşları arayabili
 <table border="0">
   <tr>
     <td align="center" width="33%">
-      <b>1️⃣ Uçuş Arama & Listeleme</b><br>
-      <i>Flight Search</i>
+      <b>1️⃣ Uçuş Listeleme</b><br>
+      <i>Flight List</i>
     </td>
     <td align="center" width="33%">
       <b>2️⃣ Koltuk Seçimi</b><br>
@@ -193,13 +193,13 @@ Kullanıcı kalkış/varış noktası ve havayolu seçerek uçuşları arayabili
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/aef65535-2799-42d1-8819-c020b10e2c9a" alt="Uçuş Arama" width="100%"/>
+       <img src="https://github.com/user-attachments/assets/0d68c463-4732-4629-a298-c3c7deab20ce" alt="ucusSecimi" width="100%"/>
     </td>
     <td valign="top">
       <img src="https://github.com/user-attachments/assets/888ba747-124b-4f8b-9e12-e881e9decb93" alt="Koltuk Seçimi" width="100%"/>
     </td>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/ef08107f-6612-493c-8cdb-8caa5dbfa4dc" alt="Bilet Satın Alma" width="100%"/>
+      <img src="https://github.com/user-attachments/assets/b195d637-c709-43b8-88e4-7915bdc713bd" alt="bilet Seçimi" width="100%"/>
     </td>
   </tr>
 </table>
