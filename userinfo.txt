@@ -1,0 +1,7 @@
+name=example
+surname=example2
+email=ex@gmail.com
+password=1234
+address=Izmir
+country=Türkiye
+phone=555 999 88 88

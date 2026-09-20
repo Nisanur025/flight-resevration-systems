@@ -1,0 +1,16 @@
+American Airlines,TK101,Germany,France,10:45,09:30,Economy,Direct,950,42,Pay
+American Airlines,TK102,Germany,France,13:45,17:30,Economy,Direct,950,45,Pay
+American Airlines,TK103,Germany,France,19:45,22:30,Economy,1 Stop,950,23,Pay
+American Airlines,TK104,Germany,France,23:45,04:30,Economy,1 Stop,950,12,Pay
+Lufthansa,TK202,Italy,Spain,14:20,12:00,Business,1 Stop,2450,8,Pay
+Lufthansa,TK203,Italy,Spain,16:20,19:00,Business,2 Stop,2450,23,Pay
+American Airlines,PC303,Japan,Canada,18:10,16:55,Economy,Direct,780,25,Pay
+Lufthansa,LH404,South Korea,United Kingdom,20:50,17:15,Economy,1 Stop,5300,12,Pay
+Qatar Airways,QR552,Brazil,Australia,05:30,01:45,Business,Direct,8200,6,Pay
+British Airways,AZ120,Germany,Australia,13:05,10:40,Economy,1 Stop,4100,15,Pay
+British Airways,BA111,South Korea,France,09:55,07:15,Economy,Direct,6200,27,Pay
+British Airways,PC777,United Kingdom,Japan,23:10,21:50,Economy,Direct,690,33,Pay
+Turkish Airlines,TK909,Turkey,Germany,17:30,14:10,Business,Direct,7600,4,Pay
+American Airlines,EM444,Japan,Italy,03:15,00:20,Economy,Direct,4900,19,Pay
+Turkish Airlines,PC888,France,Turkey,23:10,21:50,Economy,Direct,690,67,Pay
+Lufthansa,TK505,Germany,Canada,13:05,10:40,Economy,1 Stop,4100,15,Pay

@@ -1,0 +1,5 @@
+CardNum=1234567890123456
+CardName=Example
+ExpMM=04
+ExpYY=2028
+CCV=344
