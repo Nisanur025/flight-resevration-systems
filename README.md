@@ -77,7 +77,7 @@ Ensure all required .txt data files exist in the project directory.
 
 Press F5 to build and run the application.
 
-================================================================================
+---
 
 # TR
 # ✈️ Uçak Rezervasyon Sistemi (C# Windows Forms)
@@ -135,6 +135,141 @@ Sistem aşağıdaki metin dosyalarını veri deposu olarak kullanır:
 - `task.txt`: Kullanıcının uçuş seçimi kaydedilerek profil sayfasında dosyadan okunarak gösterilir.
 
 ---
+
+## Ekran Görüntüleri 
+
+### 👤 Profil Sayfası & İşlemleri (Profile Page & Operations)
+
+Profil sayfasında kullanıcı bilgileri görüntülenebilir, mevcut aktif biletler listelenebilir, iptal edilebilir ve kayıtlı ödeme/kart bilgileri güncellenebilir.
+
+
+<table border="0">
+  <tr>
+    <td align="center" width="33%">
+      <b>👤 Kullanıcı Bilgileri</b><br>
+      <i>User Info</i>
+    </td>
+    <td align="center" width="33%">
+      <b>🎟️ Biletlerim</b><br>
+      <i>My Tickets</i>
+    </td>
+    <td align="center" width="33%">
+      <b>💳 Ödeme Bilgileri</b><br>
+      <i>Payment Info</i>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/06ac2336-24c2-46c9-86dc-f6798255fe0d" alt="Profil Bilgileri" width="100%"/>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/955b5425-8755-44e2-b9ad-fa4581f8ad82" alt="Bilet Bilgileri" width="100%"/>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f4cb3202-c07f-414f-be2f-ea39c0be98d1" alt="Ödeme Bilgileri" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+
+### 🛫 Uçuş Arama & Bilet Satın Alma Süreci (Flight Search & Booking Flow)
+
+Kullanıcı kalkış/varış noktası ve havayolu seçerek uçuşları arayabilir, boş koltuklar arasından cinsiyet seçimi yaparak koltuğunu belirleyebilir ve ödeme adımını tamamlayabilir.
+
+<table border="0">
+  <tr>
+    <td align="center" width="33%">
+      <b>1️⃣ Uçuş Arama & Listeleme</b><br>
+      <i>Flight Search</i>
+    </td>
+    <td align="center" width="33%">
+      <b>2️⃣ Koltuk Seçimi</b><br>
+      <i>Seat Selection</i>
+    </td>
+    <td align="center" width="33%">
+      <b>3️⃣ Bilet Satın Alma & Ödeme</b><br>
+      <i>Payment & Confirmation</i>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/aef65535-2799-42d1-8819-c020b10e2c9a" alt="Uçuş Arama" width="100%"/>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f45d8993-7260-417d-aaa3-c223f6fe0048" alt="Koltuk Seçimi" width="100%"/>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/ef08107f-6612-493c-8cdb-8caa5dbfa4dc" alt="Bilet Satın Alma" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 🔑 Kayıt & Giriş İşlemleri (Sign Up & Login)
+
+Sisteme yeni kullanıcı kaydı gerçekleştirilebilir ve mevcut bilgilerle güvenli giriş yapılabilir.
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <b>📝 Kayıt Ol (Register)</b><br>
+      <i>New User Registration</i>
+    </td>
+    <td align="center" width="50%">
+      <b>🔓 Giriş Yap (Login)</b><br>
+      <i>User Login Authentication</i>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f672b490-b144-43bd-89a6-b27edf99a7d4" alt="Kayıt Ekranı" width="100%"/>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/69d720f1-7e63-4449-8a5b-d048e9e2c657" alt="Giriş Ekranı" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 🔔 Dinamik Bildirimler & Hata Yönetimi (Notifications & Error Handling)
+
+Dosya okuma/yazma süreçlerinde hatalı girişler, geçersiz kart bilgileri, eksik alanlar veya başarılı bilet alımları sonrasında kullanıcıyı bilgilendiren dinamik mesaj kutuları (MessageBox) ve hata yönetim akışı:
+
+<table border="0">
+  <tr>
+    <td align="center" width="33%">
+      <b>❌ Uçuş Bulunamadı</b><br>
+      <i>Flight Not Found Alert</i>
+    </td>
+    <td align="center" width="33%">
+      <b>⚠️ Hatalı Giriş / Kayıt</b><br>
+      <i>Auth Error Alert</i>
+    </td>
+    <td align="center" width="33%">
+      <b>💳 Geçersiz Kart Bilgisi</b><br>
+      <i>Card Verification Error</i>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/e103b5e0-8dbe-456a-80a8-f2e652b50312" alt="Uçuş Bulunamadı" width="100%"/>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/3cc2d285-7544-4c1d-bea9-c66801c067a6" alt="Kayıt Hatası" width="100%"/>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f6fc7d2f-48b0-4d7e-99f4-bf865911237a" alt="Kart Hatası" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <b>📥 Başarılı Ödeme & Bilet İndirme Talebi (Success & Ticket Download Prompt)</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github.com/user-attachments/assets/bbe27531-36b2-45ae-917c-28319365b744" alt="Bilet İndirme" width="50%"/>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projenin Çalıştırılması
 
